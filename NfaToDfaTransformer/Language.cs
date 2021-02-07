@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-
+using System.Text;
 namespace NfaToDfaTransformer
 {
     public class Language

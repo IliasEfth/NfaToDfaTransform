@@ -1,4 +1,5 @@
-﻿namespace NfaToDfaTransformer
+﻿using System.Text;
+namespace NfaToDfaTransformer
 {
     public class Move
     {
